@@ -1,0 +1,29 @@
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.exe
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.deps.json
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.runtimeconfig.json
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.dll
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.pdb
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.AssemblyInfoInputs.cache
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.AssemblyInfo.cs
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.csproj.CoreCompileInputs.cache
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.dll
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\refint\pokeMonGame.dll
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.pdb
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.genruntimeconfig.cache
+C:\Users\kathi\Desktop\NewOOPP\Application\pokeMonGame\pokeMonGame\obj\Debug\net8.0\ref\pokeMonGame.dll
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.exe
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.deps.json
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.runtimeconfig.json
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.dll
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\bin\Debug\net8.0\pokeMonGame.pdb
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.AssemblyInfoInputs.cache
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.AssemblyInfo.cs
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.csproj.CoreCompileInputs.cache
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.sourcelink.json
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.dll
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\refint\pokeMonGame.dll
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.pdb
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\pokeMonGame.genruntimeconfig.cache
+C:\Users\kathi\Desktop\NewOOPP\Application\OOPP\Assigment 3\pokeMonGame\pokeMonGame\obj\Debug\net8.0\ref\pokeMonGame.dll
